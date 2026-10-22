@@ -1,0 +1,9 @@
+CANTINA EPES N.º 1 — CATÁLOGO DIGITAL
+
+1. Abrí index.html en cualquier navegador: es un catálogo completo y funciona sin Internet.
+2. Para crear un enlace público en Netlify, entrá a https://app.netlify.com/drop y arrastrá el ZIP o una carpeta con index.html.
+3. El catálogo incluye 36 productos, fotografías aportadas, categorías, búsqueda, orden por precio y lista de compras para copiar.
+4. El Instagram está enlazado a https://www.instagram.com/cantinaepes1/
+5. Los precios provienen de las capturas enviadas en octubre de 2026; verificá los valores y la disponibilidad antes de publicarlo.
+
+NOTA: algunos nombres y tamaños se veían cortados en las capturas. Se normalizaron para legibilidad y conviene revisarlos antes de la publicación.

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "snacks-1",
+    "cat": "snacks",
+    "slug": "snacks_01",
+    "name": "Sapito Confites",
+    "price": 500,
+    "subtitle": "Confites",
+    "image": "imagenes/snacks_01.jpg"
+  },
+  {
+    "id": "snacks-2",
+    "cat": "snacks",
+    "slug": "snacks_02",
+    "name": "Maní con chocolate",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/snacks_02.jpg"
+  },
+  {
+    "id": "snacks-3",
+    "cat": "snacks",
+    "slug": "snacks_03",
+    "name": "Maní garrapiñado",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/snacks_03.jpg"
+  },
+  {
+    "id": "snacks-4",
+    "cat": "snacks",
+    "slug": "snacks_04",
+    "name": "Hamleton",
+    "price": 700,
+    "subtitle": "Chocolate",
+    "image": "imagenes/snacks_04.jpg"
+  },
+  {
+    "id": "snacks-5",
+    "cat": "snacks",
+    "slug": "snacks_05",
+    "name": "Papas fritas Cachi",
+    "price": 2000,
+    "subtitle": "Clásicas",
+    "image": "imagenes/snacks_05.jpg"
+  },
+  {
+    "id": "snacks-6",
+    "cat": "snacks",
+    "slug": "snacks_06",
+    "name": "Papas fritas",
+    "price": 2200,
+    "subtitle": "Bolsa amarilla",
+    "image": "imagenes/snacks_06.jpg"
+  },
+  {
+    "id": "snacks-7",
+    "cat": "snacks",
+    "slug": "snacks_07",
+    "name": "Barrita de cereal",
+    "price": 1000,
+    "subtitle": "Georgalos",
+    "image": "imagenes/snacks_07.jpg"
+  },
+  {
+    "id": "snacks-8",
+    "cat": "snacks",
+    "slug": "snacks_08",
+    "name": "Pañuelitos Candela",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/snacks_08.jpg"
+  },
+  {
+    "id": "cookies-1",
+    "cat": "cookies",
+    "slug": "cookies_01",
+    "name": "Chipeadas",
+    "price": 1200,
+    "subtitle": "",
+    "image": "imagenes/cookies_01.jpg"
+  },
+  {
+    "id": "cookies-2",
+    "cat": "cookies",
+    "slug": "cookies_02",
+    "name": "Polvorita Lía",
+    "price": 1200,
+    "subtitle": "Paquete azul",
+    "image": "imagenes/cookies_02.jpg"
+  },
+  {
+    "id": "cookies-3",
+    "cat": "cookies",
+    "slug": "cookies_03",
+    "name": "Paseo 5 Semillas",
+    "price": 2000,
+    "subtitle": "",
+    "image": "imagenes/cookies_03.jpg"
+  },
+  {
+    "id": "cookies-4",
+    "cat": "cookies",
+    "slug": "cookies_04",
+    "name": "Trío Pepas",
+    "price": 1000,
+    "subtitle": "",
+    "image": "imagenes/cookies_04.jpg"
+  },
+  {
+    "id": "cookies-5",
+    "cat": "cookies",
+    "slug": "cookies_05",
+    "name": "Traviata",
+    "price": 1200,
+    "subtitle": "Variedades",
+    "image": "imagenes/cookies_05.jpg"
+  },
+  {
+    "id": "cookies-6",
+    "cat": "cookies",
+    "slug": "cookies_06",
+    "name": "Polvorita Lía",
+    "price": 600,
+    "subtitle": "Paquete rosa",
+    "image": "imagenes/cookies_06.jpg"
+  },
+  {
+    "id": "cookies-7",
+    "cat": "cookies",
+    "slug": "cookies_07",
+    "name": "Galletitas Hamlet",
+    "price": 1200,
+    "subtitle": "",
+    "image": "imagenes/cookies_07.jpg"
+  },
+  {
+    "id": "cookies-8",
+    "cat": "cookies",
+    "slug": "cookies_08",
+    "name": "9 de Oro",
+    "price": 1500,
+    "subtitle": "Agridulces",
+    "image": "imagenes/cookies_08.jpg"
+  },
+  {
+    "id": "candies-1",
+    "cat": "candies",
+    "slug": "candies_01",
+    "name": "Alfajor Las Colonias",
+    "price": 700,
+    "subtitle": "Triple",
+    "image": "imagenes/candies_01.jpg"
+  },
+  {
+    "id": "candies-2",
+    "cat": "candies",
+    "slug": "candies_02",
+    "name": "Alfajor Fantoche",
+    "price": 1000,
+    "subtitle": "Triple",
+    "image": "imagenes/candies_02.jpg"
+  },
+  {
+    "id": "candies-3",
+    "cat": "candies",
+    "slug": "candies_03",
+    "name": "Chupetín Bola Loca",
+    "price": 250,
+    "subtitle": "",
+    "image": "imagenes/candies_03.jpg"
+  },
+  {
+    "id": "candies-4",
+    "cat": "candies",
+    "slug": "candies_04",
+    "name": "Pastillas Bulldog",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/candies_04.jpg"
+  },
+  {
+    "id": "candies-5",
+    "cat": "candies",
+    "slug": "candies_05",
+    "name": "Alkaplus",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/candies_05.jpg"
+  },
+  {
+    "id": "candies-6",
+    "cat": "candies",
+    "slug": "candies_06",
+    "name": "Turrón de maní",
+    "price": 400,
+    "subtitle": "",
+    "image": "imagenes/candies_06.jpg"
+  },
+  {
+    "id": "candies-7",
+    "cat": "candies",
+    "slug": "candies_07",
+    "name": "Mentitas",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/candies_07.jpg"
+  },
+  {
+    "id": "candies-8",
+    "cat": "candies",
+    "slug": "candies_08",
+    "name": "Gomitas",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/candies_08.jpg"
+  },
+  {
+    "id": "drinks-1",
+    "cat": "drinks",
+    "slug": "drinks_01",
+    "name": "Coca-Cola en lata",
+    "price": 1600,
+    "subtitle": "",
+    "image": "imagenes/drinks_01.jpg"
+  },
+  {
+    "id": "drinks-2",
+    "cat": "drinks",
+    "slug": "drinks_02",
+    "name": "Secco",
+    "price": 1800,
+    "subtitle": "Botella",
+    "image": "imagenes/drinks_02.jpg"
+  },
+  {
+    "id": "drinks-3",
+    "cat": "drinks",
+    "slug": "drinks_03",
+    "name": "Vida 1,5 L",
+    "price": 1700,
+    "subtitle": "Bebida saborizada",
+    "image": "imagenes/drinks_03.jpg"
+  },
+  {
+    "id": "drinks-4",
+    "cat": "drinks",
+    "slug": "drinks_04",
+    "name": "Baggio 1 L",
+    "price": 2000,
+    "subtitle": "Jugo",
+    "image": "imagenes/drinks_04.jpg"
+  },
+  {
+    "id": "drinks-5",
+    "cat": "drinks",
+    "slug": "drinks_05",
+    "name": "Baggio 200 ml",
+    "price": 650,
+    "subtitle": "Jugo",
+    "image": "imagenes/drinks_05.jpg"
+  },
+  {
+    "id": "drinks-6",
+    "cat": "drinks",
+    "slug": "drinks_06",
+    "name": "Agua Vida",
+    "price": 1200,
+    "subtitle": "Botella",
+    "image": "imagenes/drinks_06.jpg"
+  },
+  {
+    "id": "drinks-7",
+    "cat": "drinks",
+    "slug": "drinks_07",
+    "name": "Jugo Pepito",
+    "price": 500,
+    "subtitle": "",
+    "image": "imagenes/drinks_07.jpg"
+  },
+  {
+    "id": "drinks-8",
+    "cat": "drinks",
+    "slug": "drinks_08",
+    "name": "Pepsi en lata",
+    "price": 1600,
+    "subtitle": "",
+    "image": "imagenes/drinks_08.jpg"
+  },
+  {
+    "id": "drinks-9",
+    "cat": "drinks",
+    "slug": "drinks_09",
+    "name": "7UP en lata",
+    "price": 1600,
+    "subtitle": "",
+    "image": "imagenes/drinks_09.jpg"
+  },
+  {
+    "id": "drinks-10",
+    "cat": "drinks",
+    "slug": "drinks_10",
+    "name": "Coca-Cola",
+    "price": 2000,
+    "subtitle": "Botella",
+    "image": "imagenes/drinks_10.jpg"
+  },
+  {
+    "id": "drinks-11",
+    "cat": "drinks",
+    "slug": "drinks_11",
+    "name": "Aquarius",
+    "price": 2800,
+    "subtitle": "Botella",
+    "image": "imagenes/drinks_11.jpg"
+  },
+  {
+    "id": "drinks-12",
+    "cat": "drinks",
+    "slug": "drinks_12",
+    "name": "Secco 3 L",
+    "price": 2200,
+    "subtitle": "Botella",
+    "image": "imagenes/drinks_12.jpg"
+  }
+]
